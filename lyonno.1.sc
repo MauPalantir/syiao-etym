@@ -1,10 +1,13 @@
 # Early changes (Proto-LM > Ancient LM)
 
+ái/éi/#C(C)_#
 á/ái/#C(C)_#
 
 # F specific changes
-f/v/_[àùáú]
 fu/fẏ/_#
+f/fy/_(V)F#
+f/fy/V_V
+f/v/_[àùáú]
 ù/ỳ/f_#
 ú/ý/f_#
 
@@ -40,3 +43,4 @@ r/ry/_F
 àu/èo/_#
 áa/êa/_#
 
+ //_

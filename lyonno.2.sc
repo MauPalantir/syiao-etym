@@ -13,7 +13,7 @@ w/m/_[AI]
 w//_[OU]
 v/w/_
 
-r/ry/#_[eēéêiīíî]
+r/ry/#_[eēéêiīíî](V)#
 
 # Back falling voewls
 
@@ -23,11 +23,10 @@ r/ry/#_[eēéêiīíî]
 ù/uo/w_#
 ù/ò/_…CO
 ù/àu/#(C)([Ciu])_#
+ù//m_C
 
-# A fỳ arra utal h ez ilyen későn történt
-f/fy/_F#
-# fyar
-f/fy/V_V
+# f > fy still applies
+f/fy/V_Á
 y//_…FF
 
 # Homogenous diphtongs
@@ -39,9 +38,9 @@ uU/ū/_#
 ùU/ǔ/_#
 úU/û/_#
 ii/ei/_#
+ìi/ìe/_
 iI/ī/_#
 íI/î/_#
 ìI/ǐ/_#
 
-s/h/V_V
  //_#

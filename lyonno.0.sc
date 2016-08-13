@@ -1,4 +1,4 @@
-# Final vowel system.
+# All ancient and new vowels.
 V=iaueoẏīāūēōȳíáúéóýîâûêôŷìàùèòỳǐǎǔěǒÿəı
 
 # Vovels by quality
@@ -18,9 +18,9 @@ Y=ẏýỳȳŷÿ
 Á=íáúéóýîâûêôŷ
 À=ìàùèòỳǐǎǔěǒÿ
 # Front—Back—Middle
-F=ieīēíéìèîêǐě
+F=ieīēíéìèîêǐěı
 B=uoūōúóùòûôǔǒ
-M=ẏaȳāýáỳàŷâÿǎ
+M=ẏaȳāýáỳàŷâÿǎə
 
 y̌ |ÿ
 qh|x
@@ -31,16 +31,17 @@ th|t
 dh|d
 sy|ś
 zy|ź
+nny|ńń
 ny|ń
 
-# Final consonant system
-C=ftxvdgśźmnñńwyrlh
+# All ancient and new consonants.
+C=ftxvdgszśźmnñńwyrlh
 S=ftxś
 Z=vdgźmnñńwyrlh
 T=tdnrl
 P=fvmw
 Q=xgñh
-Y=śźńy
+Ś=śźńy
 N=mnñń
 R=rl
 
