@@ -18,6 +18,7 @@ r/ry/#_[eēéêiīíî](V)#
 # Back falling voewls
 
 à/ào/#(C)([Ciu])_#
+à/ào/#_…ñ
 ì/ỳ/_#
 ù/ǔ/#r_#
 ù/uo/w_#

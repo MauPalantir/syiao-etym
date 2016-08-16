@@ -8,8 +8,9 @@ iu/io/_#
 
 # S/SY, ZY
 
-s/ź/_…[áâàǎ]
-s/ź/_…[IB]
+s/ź/_…[áâàǎ]#
+s/ź/_…[íìîǐ]
+s/ź/_B
 s/ś/_
 
 # Vowel lengthenings
@@ -29,8 +30,6 @@ U/O/[ēêě]…_
 
 
 [UOY]/w/C_V…[CV]
-# Ezafe from AN ngía „mine”
-
 ìe/īe/_…CĂ
 
 # Tone harmony
@@ -44,6 +43,7 @@ U/O/[ēêě]…_
 # Lax vowels emerge
 Ă/Ǝ/C_#
 
+# Ezafe from AN ngía „mine”
 Ea/i/I…_#
 Ea/u/[YB]…_#
 Ea/a/[AE]…_#
@@ -67,10 +67,11 @@ V//#CĂ_…CV
 # Final vowel loss in multi-syllabe words
 Ǝ//CV…C_#
 
-n/nn/(C)V_#
-
 # changes like x > g
-S/Z/_#
+S/Z/#CV((V)V)_#
+S/Z/À(V)_#
+
+n/nn/(C)V_#
 
 # Tones shifting towards the end (except diphtongs)
 

@@ -38,6 +38,7 @@ y//y…_
 f/w/V_V
 f/w/Z_
 t/d/_[OUÀ]
+ś/ź/_…ś
 
 # Rhotacism
 y/r/VI_#
@@ -46,13 +47,22 @@ l/r/e_#
 l/r/U_#
 l/r/_əV
 l/r/əV_
+l/r/#(C)(C)(wy)V_#
 
-u/ū/_r#
-ú/û/_r#
-ù/ǔ/_r#
+u/ū/#(C)(C)(wy)_r#
+ú/û/#(C)(C)(wy)_r#
+ù/ǔ/#(C)(C)(wy)_r#
+i/ī/#(C)(C)(wy)_r#
+í/î/#(C)(C)(wy)_r#
+ì/ǐ/#(C)(C)(wy)_r#
 
 īe/iə/C_C#
+īe/iən/_nV
+ī(y)AU/iAo/_
+xwa/hua/_
 ewa/oa/C_
+IewA/yeA/C_
+UyO/wiO/_
 iwa/ea/C_
 uwa/ẏa/C_
 wia/ūy/_#
