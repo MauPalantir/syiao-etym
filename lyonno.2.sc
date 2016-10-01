@@ -1,5 +1,11 @@
 # Ancient > Bronze Age LM 5k-2kBC
 
+# Except before y
+é/í/_y
+y//I_V
+
+àu/èo/#C([wy])_#
+
 # M/M
 
 m/my/#_F#
@@ -17,12 +23,13 @@ r/ry/#_[eēéêiīíî](V)#
 
 # Back falling voewls
 
-à/ào/#(C)([Ciu])_#
+à/ào/#(C)([IEU])_#
 à/ào/#_…ñ
 ì/ỳ/_#
 ù/ǔ/#r_#
 ù/uo/w_#
 ù/ò/_…CO
+ú/ò/_À
 ù/àu/#(C)([Ciu])_#
 ù//m_C
 

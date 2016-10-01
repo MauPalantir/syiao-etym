@@ -1,221 +1,242 @@
-fa        [fa]
-fan       [fan]
-foa       [faa]
-fyái      [fá]
-wào       [fà]
-fei       [fii]
-fyi       [fi]
-fitha     [fitha]
-fyé       [fí]
-féa       [fía]
-féia      [fíia]
-fìn       [fìn]
-fyỳ       [fì]
-fìe       [fìi]
-fẏ        [fu]
-wúo       [fú]
-wuo       [fù]
-ma        [ma]
-mái       [má]
-mèo       [màu]
-myàng     [màng]
-myào      [mà]
-myǎ       [màa]
-myi       [mi]
-méi       [míi]
-myé       [mí]
-mìa       [mìa]
-myỳ       [mì]
-mui       [mui]
-mu        [mu]
-móu       [múu]
-mó        [mú]
-màu       [mù]
-mǔ        [mùu]
-na        [na]
-nyái      [ná]
-nǎ        [nàa]
-nào       [nà]
-niào      [nài]
-nàn       [nàn]
-nga       [nga]
-ghan      [ngan]
-ái        [ngá]
-ghào      [ngà]
-ghi       [ngi]
-ghiu      [ngiu]
-ngé       [ngí]
-éa        [ngía]
-ngỳ       [ngì]
-ngìyà     [ngìyà]
-ngìn      [ngìn]
-ghu       [ngu]
-úo        [ngú]
-úa        [ngúa]
-úi        [ngúi]
-ngàu      [ngù]
-nini      [nini]
-ni        [ni]
-nyé       [ní]
-nyéi      [níi]
-nyéa      [nía]
-nìqhu     [nìqhu]
-nỳ        [nì]
-nu        [nu]
-nui       [nui]
-nula      [nura]
-nyó       [nú]
-nyóa      [núa]
-nyói      [núi]
-nùqhu     [nùqhu]
-qha       [qha]
-hái       [qhá]
-hán       [qhán]
-ghào      [qhà]
-qhimù     [qhimù]
-qhiu      [qhiu]
-qhi       [qhi]
-hé        [qhí]
-ghỳ       [qhì]
-qhu       [qhu]
-qhui      [qhui]
-húo       [qhú]
-húthá     [qhúthá]
-ghǔ       [qhùu]
-ghàu      [qhù]
-ghùn      [qhùn]
-la        [ra]
-ryêa      [ráa]
-réi       [rái]
-rái       [rá]
-rào       [rà]
-ryé       [rí]
-ryỳ       [rì]
-ryìng     [rìng]
-lin       [rin]
-lua       [rua]
-lung      [rung]
-luia      [ruia]
-lun       [run]
-          []
-rúo       [rú]
-rǔ        [rù]
-sa        [sa]
-sái       [sá]
-sêa       [sáa]
-sào       [sà]
-sia       [sia]
-si        [si]
-sé        [sí]
-séi       [síi]
-sỳ        [sì]
-sìu       [sìu]
-sìa       [sìa]
-su        [su]
-sua       [sua]
-súo       [sú]
-sàu       [sù]
-tha       [tha]
-thái      [thá]
-thào      [thà]
-thi       [thi]
-thé       [thí]
-thỳ       [thì]
-thu       [thu]
-thúo      [thú]
-thúa      [thúa]
-thàu      [thù]
-ma        [wa]
-mái       [wá]
-mào       [wà]
-mi        [wi]
-wé        [wé]
-mỳ        [wì]
-u         [wu]
-úo        [wú]
-ù         [wù]
-ufya      [wufa]
-yoa       [yaa]
-ya        [ya]
-yái       [yá]
-yào       [yà]
-yi        [yi]
-yé        [yí]
-yìan      [yìan]
-yìn       [yìn]
-yìu       [yìu]
-yuan      [yuan]
-yu        [yu]
-yó        [yú]
-yàu       [yù]
-éyà       [ngí yà]
-myà       [mù yà]
-mòyó      [mù yú]
-myỳ       [mù yì]
-muyàna    [mu yà na]
-éméng     [ngímíng]
-àong      [ngàng]
-fìla      [fìra]
-ghila     [ngira]
-áina      [ngá na]
-wèo       [wàu]
-mùa       [mùa]
-nèo       [nàu]
-sáili     [sá li]
-sáinyé    [sá ní]
-méyǎ      [mí yàa]
-faala     [faa ra]
-fyáila    [fá ra]
-lurái     [ru rá]
-áingé     [ngá ngí]
-áinga     [ngá nga]
-famà      [fawà]
-mfamà     [mù fawà]
-mufamà    [mu fawà]
-yifamà    [yi fawà]
-nafamà    [na fawà]
-ráifamà   [rá fawà]
-ghusỳ     [ngusì]
-ghasyá    [ngasyá]
-alaqhu    [araqhu]
-alayà     [arayà]
-alayó     [arayú]
-wúomù     [fú mù]
-ghìela    [qhìi ra]
-mmu       [mù mu]
-saghà     [sa ngà]
-naqha     [naqha]
-myàra     [myàra]
-amyǎqha   [amyǎqha]
-màmàm     [wàwàm]
-le        [le]
-fàma      [fàwa]
-fàmí      [fàwí]
-fàù       [fàwù]
-fàmaqhu   [fàwaqhu]
-fàmáng    [fàwáng]
-fàmàng    [fàwàng]
-ngàfàm    [ngàfàm]
-lefàm     [lefàm]
-nginèo    [ngi nèo]
-ngíéafàmà [ngí éa fàwà]
-ngífàmà   [ngí fàwà]
-éalefàmà  [éa le fàwà]
-aiyùng    [ai yùng]
-qháinghan [qháin ghan]
-afàmū     [afàmū]
-alaqhù    [alaqhù]
-mutha     [mu tha]
-nufyáila  [nu fyáila]
-nusáili   [nu sáili]
-ngiuna    [ngiu na]
-qhuana    [qhua na]
-sêathà    [sêathà]
-fyérúa    [fyé rúa]
-thásáili  [thá sáili]
-thuqhan   [thu qhan]
-ngàona    [ngà na]
-qháiru    [qhái ru]
-nyóthào   [nó thà]
-ngàothà   [ngà thà]
-siyaya    [si ya ya]
+fa             [fa]           "láb; lép"
+fan            [fan]          "lépés"
+foa            [faa]          "fordul"
+fyi            [fi]           "szőr"
+fitha          [fitha]
+fei            [fii]          "puha"
+fẏ             [fu]           "tojás"
+wà             [fà]           "valaki gyereke"
+fyái           [fá]           "pénisz"
+fyỳ            [fì]           "dönt, választ"
+fìn            [fìn]          "választott"
+fìe            [fìi]          "visz, akar"
+fyé            [fí]           "meleg"
+féa            [fía]          "lélek, életerő"
+féia           [fíia]         "meleg"
+wuo            [fù]           "ürülék"
+wúo            [fú]           "üt"
+ma             [ma]           "kéz"
+myi            [mi]           "ül $"
+mu             [mu]           "nagy állat, úr, antróp"
+mui            [mui]          "ragadozó"
+myà            [mà]           "jó"
+mèo            [màu]          "elégedettség"
+myàng          [màng]         "igen"
+myǎ            [màa]          "jóllakott"
+mái            [má]           "család"
+myỳ            [mì]           "porc"
+mìa            [mìa]          "rugalmas"
+myé            [mí]           "szopik; tej"
+méi            [míi]          "testvér"
+màu            [mù]           "valaki"
+mó             [mú]           "ül"
+móu            [múu]          "tyúk"
+na             [na]           "öl"
+nga            [nga]          "hát"
+ghan           [ngan]         "hegy"
+ghi            [ngi]          "alszik; gömb"
+ghiu           [ngiu]         "összetekeredik"
+ghu            [ngu]          "béka"
+ghà            [ngà]          "harap"
+ái             [ngá]          "nyal"
+ngỳ            [ngì]          "máj"
+ngìa           [ngìa]         "finom"
+ngìn           [ngìn]         "orvosság"
+ngé            [ngí]          "*én"
+éa             [ngía]         "én"
+ngàu           [ngù]          "here"
+úo             [ngú]          "ellenség"
+úa             [ngúa]         "beteg"
+úi             [ngúi]         "betegség"
+ni             [ni]           "ki, elő"
+nini           [nini]         "vagina"
+nu             [nu]           "szív"
+nuia           [nuia]         "nagyszerű"
+nula           [nura]         "mosolyog (dorombol)"
+nà             [nà]           "észrevesz"
+nǎ             [nàa]          "tud"
+niào           [nài]          "mozog"
+nàn            [nàn]          "lény"
+nyái           [ná]           "anyám"
+nỳ             [nì]           "eszik"
+nìqhu          [nìxu]         "étel"
+nyé            [ní]           "szürkület, hajnal"
+nyéi           [níi]          "tér"
+nyéa           [nía]          "horizont"
+nàu            [nù]           "*patkány"
+nùqhu          [nùxu]         "vándorpatkány"
+nyó            [nú]           "szül"
+nyóa           [núa]          "új"
+nyói           [núi]          "teremt"
+qha            [xa]           "vadászik"
+qhi            [xi]           "esik (eső)"
+qhimù          [ximù]         "zuhan"
+qhiu           [xiu]          "eső"
+qhu            [xu]           "egér"
+ghà            [xà]           "ki? mi?"
+hái            [xá]           "fej"
+hán            [xán]          "homlok"
+ghỳ            [xì]           "fut"
+hé             [xí]           "ti"
+ghàu           [xù]           "szag"
+ghùn           [xùn]          "nyom"
+ghǔ            [xùu]          "út"
+húo            [xú]           "farok"
+húthá          [xúthá]        "mögött"
+la             [ra]           "ugrik"
+li             [ri]           "*éjszaka"
+lin            [rin]          "éjszaka"
+lu             [ru]           "*gödör"
+lua            [rua]          "fekete"
+luia           [ruia]         "mély, sötét"
+lung           [rung]         "mély"
+lun            [run]          "gödör"
+rà             [rà]           "szexel"
+rǎ             [ràa]          "szex"
+rái            [rá]           "dolog, tárgy"
+ryêa           [ráa]          "föld, talaj"
+réi            [rái]          "kő"
+ryỳ            [rì]           "kígyó"
+ryìng          [rìng]         "gonosz, ijesztő"
+ryé            [rí]           "hús"
+rǔ             [rù]           "száj"
+rúo            [rú]           "bél"
+sa             [sa]           "fúj; harag"
+si             [si]           "bajusz"
+sei            [sii]          "lát"
+sia            [sia]          "megjelenik"
+su             [su]           "levél"
+sua            [sua]          "gyógynövény"
+sū             [suu]          "nő"
+sà             [sà]           "lélek"
+sái            [sá]           "nappal"
+sêa            [sáa]          "fény"
+sán            [sán]          "csillag"
+sỳ             [sì]           "hideg"
+sìu            [sìu]          "kevés, szűkös"
+sìa            [sìa]          "hideg, halott"
+sé             [sí]           "fél"
+séi            [síi]          "félelem"
+sàu            [sù]           "pisil"
+súo            [sú]           "szopik"
+tha            [tha]          "karom"
+thi            [thi]          "fióka"
+thu            [thu]          "fa"
+thà            [thà]          "nem"
+thái           [thá]          "nincs"
+thỳ            [thì]          "hol?"
+thé            [thí]          "orr"
+thàu           [thù]          "$"
+thúo           [thú]          "test"
+thúa           [thúa]
+ma             [wa]           "pocok"
+mi             [wi]           "csont"
+u              [wu]           "van"
+ufya           [wufa]         "áll"
+mà             [wà]           "megy"
+mái            [wá]           "hall; fül"
+wé             [wé]           "iszik"
+mỳ             [wì]           "rigó"
+wé             [wí]           "víz"
+ù              [wù]           "hal"
+úo             [wú]           "fog"
+ya             [ya]           "mond"
+yoa            [yaa]          "beszél"
+yi             [yi]           "szem"
+yu             [yu]           "kacsa"
+yuan           [yuan]         "lúd"
+yà             [yà]           "tüzelő nő"
+yái            [yá]           "nyúl"
+yỳ             [yì]           "*gyerek"
+yìan           [yìan]         "gyerek"
+yìn            [yìn]          "kamasz gyerek"
+yìu            [yìu]          "kicsi"
+yé             [yí]           "vonul, megy valahova"
+yéa            [yía]          "fehér"
+yàu            [yù]           "vér"
+yó             [yú]           "*férfi"
+               []
+íào            [ngí yà]       "én"
+myà            [mù yà]        "ő G1f"
+mòyó           [mù yú]        "ő G1m"
+myỳ            [mù yì]        "ő G2"
+muyàna         [mu yà na]     "ők"
+naghà          [na ñà]        "nyak"
+éméng          [ñímíñ]        "jóllakott, elégedett"
+àong           [ñàñ]          "nyitott száj"
+nimái          [ni má]        "szülőhely, fészek"
+fìla           [fìra]         "küld"
+ghila          [ñira]         "forog"
+áina           [ñá na]        "tiszta"
+áinga          [ñá ña]        "mosakszik"
+wèo            [wàu]          "válni, lenni"
+mùa            [mùa]
+nèo            [nuà]          "észrevevés, látás"
+yèo            [yuà]          "tekintet, nézés"
+yéào           [yíà]          "Hold"
+sáili          [sá li]        "idő"
+sáinyé         [sá ní]        "hajnal"
+míǎ            [mí yàa]       "nő"
+faala          [faa ra]       "láb"
+fyáila         [fá ra]        "hegy, csúcs"
+lurái          [ru rá]        "padló"
+famà           [fawà]
+mfamà          [mù fawà]
+mufamà         [mu fawà]
+yifamà         [yi fawà]
+nafamà         [na fawà]
+ráifamà        [rá fawà]
+ghusỳ          [ñusì]         "te (desp.)"
+ghasyá         [ñasyá]        "tűz"
+séa            [sía]          "öreg, régi, hatalmas"
+alaqhu         [araxu]        "legfeljebb"
+alayà          [arayà]
+alayó          [arayú]
+wúomù          [fú mù]        "ütközik"
+ghìela         [xìi ra]       "gyorsan fut"
+mmu            [mù mu]        "öregasszony"
+saghà          [sa ñà]        "zombi"
+naqha          [naxa]         "halandó; zsákmányállat"
+mêathu         [máa tu]       "rend, közösség, igazság"
+faatha         [faa ta]       "fordulat, visszavágás, csapás; érv"
+hòào           [xúà]          "utolsó, végső"
+liào           [rià]          "hajnal"
+hía            [xí ya]        "érdekes dolog"
+amyǎqha        [amyǎxa]       "jobban"
+màmàm          [wàwàm]
+le             [le]           "te"
+yèo            [yàu]
+fàma           [fàwa]
+fàmí           [fàwí]
+fàù            [fàwù]
+fàmaqhu        [fàwaxu]
+fàmáng         [fàwáñ]
+fàmàng         [fàwàñ]
+ngàfàm         [ñàfàm]
+lefàm          [lefàm]
+nyóiqhu        [nóixu]        "teremtő"
+nginèo         [ñi nèo]       "álom"
+ngíéafàmà      [ñí éa fàwà]
+ngífàmà        [ñí fàwà]
+éalefàmà       [éa le fàwà]
+aiyùng         [ai yùñ]       "legalább"
+qháinghan      [xáin gan]     "hegycsúcs"
+afàmū          [afàmū]        "gond, jövés-menés"
+alaqhù         [alaxù]        "legfeljebb"
+mutha          [mu tha]       "sólyom"
+nufyáila       [nu fyáila]    "tökéletesség"
+nusáili        [nu sáili]     "félidő"
+ngiuna         [ñiu na]       "alvó ember"
+qhuana         [qhua na]      "osztályrész, juss"
+sêathà         [sêathà]       "avatár"
+fyérúa         [fyé rúa]      "ház"
+thásáili       [thá sáili]    "sehol; soha"
+thuqhan        [thu qhan]     "erdei vadász"
+ngàna          [ñà na]        "elszakad; eltép; elharap"
+qháiru         [qhái ru]      "lejtő, domboldal"
+nyóthà         [nó thà]       "eunuch"
+ngàthà         [ñà thà]       "eunuch"
+siyaya         [si ya ya]     "beszélgetés"
+miéasu         [wi éa su]     "ág"
+nuraqhua       [nura qhua]    "bánat"
+sàunga         [sù ña]        "nyál"

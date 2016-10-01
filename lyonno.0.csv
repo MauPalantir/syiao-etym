@@ -1,181 +1,169 @@
-fa
-fan
-fa
-faa
-fá
-fà
-fii
-fi
+# !PR
+fa    "láb; lép"
+fan   "lépés"
+faa   "fordul"
+fi    "szőr"
 fitha
-fí
-fía
-fíia
-fìn
-fì
-fì
-fìi
-fu
-fú
-fù
-ma
-má
-má
-màu
-màng
-mà
-màa
-mi
-míi
-mí
-mí
-mí
-mìa
-mì
-mui
-mu
-múu
-mú
-mù
-mùu
-na
-ná
-ná
-nàa
-nà
-nài
-nàn
-nga
-ngan
-ngá
-ngà
-ngà
-ngi
-ngi
-ngiu
-ngí
-ngía
-ngì
-ngìyà
-ngìn
-ngu
-ngú
-ngúa
-ngúi
-ngù
-nini
-ni
-ní
-níi
-nía
-nìxu
-nì
-nu
-nui
-nura
-nú
-núa
-núi
-nùxu
-xa
-xá
-xán
-xà
-ximù
-xiu
-xi
-xí
-xì
-xu
-xui
-xú
-xúthá
-xùu
-xù
-xùn
-ra
-ra
-ra
-ráa
-rái
-rá
-rà
-rà
-rí
-rì
-rìng
-rin
-rua
-rung
-ruia
-rung
-run
+fii   "puha"
+fu    "tojás"
+fà    "valaki gyereke"
+fá    "pénisz"
+fì    "dönt, választ"
+fìn   "választott"
+fìi   "visz, akar"
+fí    "meleg"
+fía   "lélek, életerő"
+fíia  "meleg"
+fù    "ürülék"
+fú    "üt"
+ma    "kéz"
+mi    "ül $"
+mu    "nagy állat, úr, antróp"
+mui   "ragadozó"
+mà    "jó"
+màu   "elégedettség"
+màng  "igen"
+màa   "jóllakott"
+má    "család"
+mì    "porc"
+mìa   "rugalmas"
+mí    "szopik; tej"
+míi   "testvér"
+mù    "valaki"
+mú    "ül"
+múu   "tyúk"
+na    "öl"
+nga   "hát"
+ngan  "hegy"
+ngi   "alszik; gömb"
+ngiu  "összetekeredik"
+ngu   "béka"
+ngà   "harap"
+ngá   "nyal"
+ngì   "máj"
+ngìa  "finom"
+ngìn  "orvosság"
+ngí   "*én"
+ngía  "én"
+ngù   "here"
+ngú   "ellenség"
+ngúa  "beteg"
+ngúi  "betegség"
+ni    "*vagina"
+ni    "ki, elő"
+nini  "vagina"
+nu    "szív"
+nuia  "nagyszerű"
+nura  "mosolyog (dorombol)"
+nà    "észrevesz"
+nàa   "tud"
+nài   "mozog"
+nàn   "lény"
+ná    "anyám"
+nì    "eszik"
+nìxu  "étel"
+ní    "szürkület, hajnal"
+níi   "tér"
+nía   "horizont"
+nù    "*patkány"
+nùxu  "vándorpatkány"
+nú    "szül"
+núa   "új"
+núi    "teremt"
+xa    "vadászik"
+xi    "esik (eső)"
+ximù  "zuhan"
+xiu   "eső"
+xu    "egér"
+xà    "ki? mi?"
+xá    "fej"
+xán   "homlok"
+xì    "fut"
+xí    "ti"
+xù    "szag"
+xùn   "nyom"
+xùu   "út"
+xú    "farok"
+xúthá "mögött"
+ra    "ugrik"
+ri    "*éjszaka"
+rin   "éjszaka"
+ru    "*gödör"
+rua   "ás"
+rua   "fekete"
+ruia  "mély, sötét"
+rung  "mély"
+run   "gödör"
+rà    "szexel"
+ràa   "szex"
+rá    "dolog, tárgy"
+ráa   "föld, talaj"
+rái   "kő"
+rì    "kígyó"
+rìng  "gonosz, ijesztő"
+rí    "hús"
+rù    "száj"
+rú    "bél"
+sa    "fúj; harag"
+si    "bajusz"
+sii   "lát"
+sia   "megjelenik"
+su    "levél"
+sua   "gyógynövény"
+suu   "nő"
+sà    "veréb"
+sà    "lélek"
+sá    "nappal"
+sáa   "fény"
+sán   "csillag"
+sì    "hideg"
+sìu   "kevés, szűkös"
+sìa   "hideg, halott"
+sí    "fél"
+síi   "félelem"
+sù    "pisil"
+sú    "szopik"
+tha   "karom"
+thi   "fióka"
+thu   "fa"
+thà   "mászik"
+thá   "nincs"
+thì   "hol?"
+thí   "orr"
+thù   "$"
+thú   "test"
+thúa  ""
+wa    "pocok"
+wi    "csont"
+wu    "van"
+wufa  "áll"
+wà    "megy"
+wá    "hall; fül"
+wé    "iszik"
+wì    "rigó"
+wí    "víz"
+wù    "hal"
+wú    "fog"
+ya    "mond"
+yaa   "beszél"
+yi    "szem"
+yu    "kacsa"
+yuan  "lúd"
+yà    "tüzelő nő"
+yá    "nyúl"
+yì    "*gyerek"
+yìan  "gyerek"
+yìn   "kamasz gyerek"
+yìu   "kicsi"
+yí    "vonul, megy valahova"
+yía   "fehér"
+yù    "vér"
+yú    "*férfi"
 
-rú
-rù
-sa
-sa
-sa
-sá
-sáa
-sà
-sà
-sia
-si
-si
-sí
-síi
-sì
-sìu
-sìa
-su
-su
-sua
-sú
-sù
-sù
-tha
-thá
-thà
-thi
-thí
-thì
-thu
-thú
-thúa
-thù
-wa
-wá
-wá
-wà
-wi
-wé
-wì
-wu
-wú
-wù
-wù
-wufa
-yaa
-ya
-yá
-yà
-yà
-yi
-yi
-yí
-yí
+# Old compounds.
 
-yìan
-yìn
-yìu
-yuan
-yu
-yú
-yù
-yù
-
-ngí yà
-mù yà
-mù yú
-mù yì
-mu yà na
+ngí yà  "én"
+mù yà   "ő G1f"
+mù yú   "ő G1m"
+mù yì   "ő G2"
+mu yà na  "ők"
