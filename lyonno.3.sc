@@ -66,7 +66,7 @@ Ai/āo/#CA_…CB
 V//#CĂ_…CV
 
 # Final vowel loss in multi-syllabe words
-Ǝ//CV…C_#
+Ǝ//(C)V…C_#
 
 # changes like x > g
 S/Z/#CV((V)V)_#
