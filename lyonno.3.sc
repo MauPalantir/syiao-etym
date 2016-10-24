@@ -1,7 +1,8 @@
 # Bronze Age LM (2k-500BC) > Middle LM
 
-
 s/h/V_V
+si/sī/_…[ys]
+i/ı/#s_
 
 # Other diphtongs
 iu/io/_#
@@ -29,6 +30,8 @@ U/O/_…[uūúûùǔ]
 U/O/_…Y
 U/O/[ēêě]…_
 úo/ô/_…V
+ù/ò/_I#
+ú/ó/_I#
 
 [UOY]/w/C_V…[CV]
 ìe/īe/_…CĂ
