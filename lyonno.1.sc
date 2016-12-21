@@ -4,7 +4,7 @@
 á/ái/#C(C)_#
 
 # F specific changes
-fu/fẏ/_#
+fu/fÿ/_#
 f/fy/_(V)F#
 f/fy/V_V
 f/v/_[àùáú]

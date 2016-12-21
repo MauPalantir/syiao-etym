@@ -1,5 +1,5 @@
 # All ancient and new vowels.
-V=iaueoẏīāūēōȳíáúéóýîâûêôŷìàùèòỳǐǎǔěǒÿəı
+V=iaueoÿīāūēōȳíáúéóýîâûêôŷìàùèòỳǐǎǔěǒẏəı
 
 # Vovels by quality
 A=aáàāâǎ
@@ -7,24 +7,25 @@ I=iíìīîǐ
 U=uúùūûǔ
 E=eéèēêě
 O=oóòōôǒ
-Y=ẏýỳȳŷÿ
+Y=ÿýỳȳŷỷ
 
 # Short-long vowels
-Ă=iaueoẏíáúéóúýìàùèòỳ
-Ā=īāūēōȳîâûêôûŷǐǎǔěǒÿ
-Ǝ=ıəẏəəẏıəẏəəẏəıəẏəẏ
+Ă=iaueoÿíáúéóúýìàùèòỳ
+Ā=īāūēōȳîâûêôûŷǐǎǔěǒỷ
+Ǝ=ıəẏəəẏıəẏəəẏəıəẏəəẏ
 # Midtone, Hightone, Lowtone
-Ȧ=iaueoẏīāūēōȳ
+Ȧ=iaueoÿīāūēōȳ
 Á=íáúéóýîâûêôŷ
-À=ìàùèòỳǐǎǔěǒÿ
+À=ìàùèòỳǐǎǔěǒỷ
 Â=îâûêôŷ
-Ǎ=ǐǎǔěǒÿ
+Ǎ=ǐǎǔěǒỷ
 # Front—Back—Middle
 F=ieīēíéìèîêǐěı
 B=uoūōúóùòûôǔǒ
-M=ẏaȳāýáỳàŷâÿǎə
+M=ÿaȳāýáỳàŷâỷǎəẏ
 
-y̌ |ÿ
+y̌ |ỷ
+ẏ |ÿ
 qh|x
 gh|g
 nng|ññ
@@ -38,7 +39,7 @@ ny|ń
 
 # All ancient and new consonants.
 C=ftxvdgszśźmnñńwyrlh
-S=ftxś
+S=ftxśs
 Z=vdgźmnñńwyrlh
 T=tdnrl
 P=fvmw
