@@ -36,6 +36,9 @@ U/O/[ēêě]…_
 [UOY]/w/C_V…[CV]
 ìe/īe/_…CĂ
 
+# ÀI > AE
+ài/ǎy/#C_…CV
+
 # Tone harmony
 Ȧ/À/C_…CÀ#
 Ȧ/Á/C_…CÁ#
@@ -62,11 +65,14 @@ Ea/ē/CC_
 U/O/[ēêě]…_
 
 # Simplify diphtongs at beginning of word
-Ae/E/_
+Ae/E/_…[CV]
 i//#CA_…CA
 Ai/āe/#C_…CF
 Ai/āo/#CA_…CB
 V//#CĂ_…CV
+
+# ÀI > AE
+Ay/Ae/#C_…CV
 
 # Final vowel loss in multi-syllabe words
 Ǝ//(C)V…C_#

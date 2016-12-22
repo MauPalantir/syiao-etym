@@ -12,6 +12,7 @@ m/my/#_F#
 m/my/#_à
 n/ń/_Á
 ài/ià/N_
+ài/àe/_#
 
 # W > W, M
 
@@ -20,6 +21,7 @@ w//_[OU]
 v/w/_
 
 r/ry/#_[eēéêiīíî](V)#
+V//#r_y
 
 # Back falling voewls
 

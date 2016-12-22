@@ -5,9 +5,10 @@ yı/i/#_
 ə//#[NR]_
 
 áiū/áiyō/_#
+Ayā/Aē/_…CV
 
 # Another vawe of laxation/shortenings
-Ă/Ǝ/C_#
+Ă/Ǝ/V…C_#
 Ā/Ă/Ā…_#
 
 # nẏ > no
@@ -35,9 +36,10 @@ u/w/V_V
 Á/Ȧ/#[rl]u_
 U/w/#[rl]_V
 
-
 N/NN/#_[ftxvdgśźwrlh]
 N/NN/[ĂƎ]_ū#
+
+Ǝ//V…N_h…V
 
 # Lenition
 h//V_V#
@@ -110,6 +112,7 @@ yao/yǎ/_…Ā
 [aeə]//V[OU]_
 À/Ȧ/Á_
 àa/ǎ/_#
+aa/ā/_…VV
 
 E//_î
 
