@@ -41,6 +41,10 @@ N/NN/[ĂƎ]_ū#
 
 Ǝ//V…N_h…V
 
+# Medial h lengthes vowel
+Ă/Ā/_hVC
+
+
 # Lenition
 h//V_V#
 h//V_V(V)C
@@ -113,6 +117,10 @@ yao/yǎ/_…Ā
 À/Ȧ/Á_
 àa/ǎ/_#
 aa/ā/_…VV
+
+āA/ā/_
+
+Ā/Ă/Ā_
 
 E//_î
 
